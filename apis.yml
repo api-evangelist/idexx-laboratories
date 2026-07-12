@@ -12,4 +12,6 @@ common:
     url: https://github.com/idexx-labs
   - type: LinkedIn
     url: https://www.linkedin.com/company/idexx-laboratories
+  - url: https://ir.idexx.com/news-events/press-releases/rss
+    type: Blog
 apis: []
